@@ -1,8 +1,10 @@
-# React + Vite
+# Hello Redux
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+counter container div
+className="flex gap-8 justify-center items-center py-16"
 
-Currently, two official plugins are available:
+counter button
+className="p-2 px-4 bg-red-400 rounded text-white font-medium hover:bg-red-500"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+counter text
+className="text-4xl font-semibold w-10"
